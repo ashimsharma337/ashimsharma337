@@ -102,9 +102,10 @@ Backend-focused Python projects exploring API development, PostgreSQL integratio
 
 ## 📊 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimsharma337\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsharma337\&layout=compact\&hide_border=true)
+<p align="center">
+  <img src="https://vercel.app" alt="Ashim's GitHub Stats" />
+  <img src="https://vercel.app" alt="Ashim's Top Languages" />
+</p>
 
 ---
 
