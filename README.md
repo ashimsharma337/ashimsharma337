@@ -82,9 +82,9 @@ Full-stack e-commerce application demonstrating authentication, product manageme
 
 ### 🍽️ Restaurant Inventory Management
 
-**React · Node.js · Express · MongoDB · RBAC**
+**Next.js** · **React** · **GraphQL (Apollo)** · **PostgreSQL** · **SQLite (FTS5)** · **Docker/K8s**
 
-Full-stack inventory management application with product management, inventory tracking and role-based access control.
+Inventory dashboard with a GraphQL API, full-text search cache, and Kubernetes deployment manifests.
 
 ➡️ [View Project](https://github.com/ashimsharma337/Restaurant-Inventory-Management)
 
