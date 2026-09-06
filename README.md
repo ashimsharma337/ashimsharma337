@@ -102,9 +102,9 @@ Backend-focused Python projects exploring API development, PostgreSQL integratio
 
 ## 📊 GitHub
 
-[//]: # ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimsharma337&show_icons=true&hide_border=true&count_private=true)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashimsharma337&show_icons=true&hide_border=true&count_private=true) -->
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ashimsharma337&hide_border=true)
-[//]: # ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsharma337&layout=compact&hide_border=true)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashimsharma337&layout=compact&hide_border=true) -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ashimsharma337&color=blue&style=flat)
 
